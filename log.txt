@@ -1,0 +1,82 @@
+
+
+              ================= LIRI RESULTS ==================
+
+              Song Name: 'HELLO'
+
+              Album Name: Hello Beautiful
+
+              Artist Name: Noah Schnacky
+
+              URL: https://open.spotify.com/album/2EoqXTEJ8DGjmaOu1uVvW4
+
+
+
+
+[{"created at: ":"Wed Jul 11 00:36:09 +0000 2018","Tweets: ":"RT @BenedictEvans: I wish iOS screenshots captured metadata: the URL, or a deep link to the app that you were capturing."},{"created at: ":"Fri Jun 29 11:02:39 +0000 2018","Tweets: ":"RT @BenedictEvans: Remembering how people talked about Alpha Go playing like an alien and wondering how it would drive.  https://t.co/Q6FAs…"},{"created at: ":"Sun Jun 24 01:55:30 +0000 2018","Tweets: ":"I just published “知名創投在區塊鏈的投資- 1” https://t.co/stwdLoa27Q"},{"created at: ":"Wed Jun 13 04:45:39 +0000 2018","Tweets: ":"I just published “GitHub 的第一個外部投資人 A16Z” https://t.co/MMdoxsfcRC"},{"created at: ":"Fri May 18 13:14:48 +0000 2018","Tweets: ":"RT @Suhail: 1/ Let's talk about fundraising: In 2009, Y Combinator only gave us $15K, half our YC batch died after demo day, 11 firms told…"},{"created at: ":"Sun Apr 15 21:01:34 +0000 2018","Tweets: ":"@hardmaru @BenedictEvans In Taiwan and HK, we still use the “Regular” horse character, but not simplified Chinese."},{"created at: ":"Tue Mar 20 06:02:11 +0000 2018","Tweets: ":"I just published “小孩也要學習分辨真假新聞” https://t.co/GlZjANIEit"},{"created at: ":"Mon Mar 12 11:27:19 +0000 2018","Tweets: ":"RT @BenedictEvans: The irony of governments thinking that  they could make a plan to copy Silicon Valley is that the San Francisco Bay Area…"},{"created at: ":"Wed Feb 07 16:48:10 +0000 2018","Tweets: ":"@CryptoKitties #492226 虎媽, #491887 小綠綠 #kittiesintaiwan #CryptoKitties"},{"created at: ":"Tue Jan 30 14:19:15 +0000 2018","Tweets: ":"@pofeng @alphagomovie 很好看！感動！"},{"created at: ":"Tue Jan 23 16:42:05 +0000 2018","Tweets: ":"RT @typesfast: I’m in Seattle and there is currently a line to shop at the grocery store whose entire premise is that you won’t have to wai…"},{"created at: ":"Sun Nov 05 00:50:31 +0000 2017","Tweets: ":"I just published “[舊文新貼] 11/17/07 我們可以開放 PTT 嗎？” https://t.co/rzTTpQsPm7"},{"created at: ":"Fri Oct 21 23:54:52 +0000 2016","Tweets: ":"RT @joshelman: The frustrating outcome of App Store ads is companies now have to outbid on their own names or competitors will be featured…"},{"created at: ":"Fri Oct 21 03:01:14 +0000 2016","Tweets: ":"RT @jameshilltaiwan: Taipei Gov (after being asked every year) will fly the rainbow flag during Pride (29 Oct) for the first time. https://…"},{"created at: ":"Thu Oct 20 12:40:26 +0000 2016","Tweets: ":"What the -- 😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡 i was suddenly banned by facebook since yesterday and so were 5 of… https://t.co/qtYzAPdmGm"},{"created at: ":"Wed Oct 19 08:30:52 +0000 2016","Tweets: ":"Me and some friends were banned by facebook and asked to upload a real ID to verify our identities. https://t.co/fvVUSQ9x3i"},{"created at: ":"Sat Oct 01 05:18:58 +0000 2016","Tweets: ":"RT @davemcclure: 500 Nerdz. One Mission. Defeat The Dark Side. https://t.co/4dfZlGKRvW cc @500Startups tip @Techmeme"},{"created at: ":"Tue Jun 07 15:46:00 +0000 2016","Tweets: ":"簡立峰：台灣眼前有兩條鴻溝｜人物觀點｜2016-06-07｜天下雜誌第599期 https://t.co/UcVCu1QDF6"},{"created at: ":"Tue Jun 07 15:41:54 +0000 2016","Tweets: ":"她是越南女孩、台灣媳婦，和歌仔戲班當家花旦 | 端傳媒 Initium Media https://t.co/2CKbCUmTgW"},{"created at: ":"Thu May 12 11:38:21 +0000 2016","Tweets: ":"Community event at @blueprint_hk https://t.co/jtNmLtM04o"}]
+
+[]
+
+[{"created at: ":"Sat Jul 14 19:00:34 +0000 2018","Tweets: ":"homework is hard"}]
+
+"spotify-this-song,\"I Want it That Way\""
+
+              ================= LIRI RESULTS ==================
+
+              Title: Titanic
+
+              Year: 1997
+
+              Rated: PG-13
+
+              IMDB Rating: 7.8
+
+              Country: USA
+
+              Language: English, Swedish
+
+              Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+
+              Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+              IMDb Rating: 7.8
+
+
+
+
+==============================================================+==+==+==+===+===+===+= LIRI RESULTS =+==+==+==+===+===+===+=
+
+=============================================================Title: Star
+
+=============================================================Year: 2001
+
+=============================================================Rated: NOT RATED
+
+=============================================================IMDB Rating: 7.8
+
+=============================================================Country: USA
+
+=============================================================Language: English
+
+=============================================================Plot: The Driver now carries an arrogant rock star who is visiting a major city (not Pittsburgh as earlier believed). Played by Madonna, this title character wants to get away from her bodyguards...
+
+=============================================================Actors: Clive Owen, Michael Beattie, Toru Tanaka Jr., DTeflon
+
+=============================================================IMDb Rating: 7.8
+
+
+[{"created at: ":"Sun Jul 15 03:27:25 +0000 2018","Tweets: ":"I love to code because it is fun."},{"created at: ":"Sat Jul 14 19:00:34 +0000 2018","Tweets: ":"homework is hard"}]
+
+
+
+==============================================================================Get LIRI Results ==================
+
+=============================================================Song Name: 'WE'
+
+=============================================================Album Name: Strange Trails
+
+=============================================================Artist Name: Lord Huron
+
+=============================================================URL: https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS
+
+
