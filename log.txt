@@ -80,3 +80,18 @@
 =============================================================URL: https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS
 
 
+
+
+[{"created at: ":"Sun Jul 15 03:27:25 +0000 2018","Tweets: ":"I love to code because it is fun."},{"created at: ":"Sat Jul 14 19:00:34 +0000 2018","Tweets: ":"homework is hard"}]
+
+==============================================================================Get LIRI Results ==================
+
+=============================================================Song Name: 'WE WILL ROCK YOU'
+
+=============================================================Album Name: News Of The World (Deluxe Remastered Version)
+
+=============================================================Artist Name: Queen
+
+=============================================================URL: https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu
+
+
